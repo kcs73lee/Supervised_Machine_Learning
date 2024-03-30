@@ -1,7 +1,7 @@
 # Supervised_Machine_Learning
-Repo for Supervised Machine Learning Course
+Repository for Supervised Machine Learning Project
 
-This repo contains the juptyer notebook for for the final project:
+In this project, we utilize the adaboost model to determine what features are associated with people earning a personal bank loan.
 
-File name: Week7_Supervised_ML_FinalProject.pdf
-The files is saved as a pdf file so to view it, simply click on the link to the file, download and view it.
+The data we'll be using is the Bank_Personal_Loan_Modelling dataset that's publicly available on kaggle.com
+URL: https://www.kaggle.com/datasets/zohrehtofighizavareh/bank-personal-loan)
