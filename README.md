@@ -1,4 +1,4 @@
-# Supervised_Machine_Learning
+# Determining Features Most Assosicated with Personal Bank Loans
 Repository for Supervised Machine Learning Project
 
 In this project, we utilize the adaboost model to determine what features are associated with people earning a personal bank loan.
