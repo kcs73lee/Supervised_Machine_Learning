@@ -1,4 +1,4 @@
-# Determining Features Most Associated with Personal Bank Loans
+# Determining Features Most Associated with Earning Personal Bank Loans
 Repository for Supervised Machine Learning Project
 
 In this project, we utilize the adaboost model to determine what features are associated with people earning a personal bank loan.
